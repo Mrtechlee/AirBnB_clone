@@ -1,28 +1,9 @@
-Common{
+.common {
+    margin: 0%;
+    padding: 0%;
     margin:0%;
-    padding:0%;
+    padding: 0%;
     font: #484848;
     font-size: 14px;
     font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
-      }
-
-Header{
-    color: white;
-    height: 70px;
-    width: 100%;
-    border-bottom: 1px #CCCCCC;
-  }
-
-  logo-align{
-            align-self: left 20px;
-            } 
-Footer{
-       color:white;
-       height: 60px;
-       width: 100%;
-       border-top: 1px #CCCCCC;
-      }
-
-text{
-     text-align: center,vertically and horizontally;
-    } 
+}
